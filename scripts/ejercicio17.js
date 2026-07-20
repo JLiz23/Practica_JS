@@ -1,4 +1,4 @@
-function saludarUsuario(nombrePerssona) {
+function saludarUsuario(nombrePersona) {
     return "Hola, " + nombrePersona;
 
 }
